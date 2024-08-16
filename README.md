@@ -8,6 +8,7 @@
 <h2>触ったことあるやつ↓</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,blender,c,cs,cpp,cmake,docker,dotnet,idea,java,kotlin,cloudflare,debian,discord,git,github,gmail,gradle,instagram,kali,jquery,linux,mint,mysql,nodejs,npm,opencv,php,powershell,py,pytorch,r,raspberrypi,redhat,replit,ts,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,blender,c,cs,cpp,cmake,docker,dotnet,idea,java,kotlin,cloudflare,debian,discord,git,github,gmail,gradle,kali,jquery,linux,mint,mysql,nodejs,npm,opencv,php,powershell,py,pytorch,r,raspberrypi,redhat,replit,ts,ubuntu,unity,vim,visualstudio,vscode,vue,wordpress" />
   </a>
 </p>
+.....思ったよりあるな
