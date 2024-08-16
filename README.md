@@ -5,9 +5,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-s&ja)](https://github.com/anuraghazra/github-readme-stats)
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css,java&layout=compact"/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=rintaro-s)
-<h2>触ったことあるやつ（使えるとは言っていない）↓</h2>
+<h2>触ったことあるやつ↓</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,blender,c,cs,cpp,cmake,docker,dotnet,idea,java,kotlin,cloudflare,debian,discord,bots,git,github,gmail,gradle,instagram,kali,jquery,linux,mint,mysql,nodejs,npm,opencv,php,powershell,py,pytorch,r,raspberrypi,redhat,replit,ts,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,blender,c,cs,cpp,cmake,docker,dotnet,idea,java,kotlin,cloudflare,debian,discord,git,github,gmail,gradle,instagram,kali,jquery,linux,mint,mysql,nodejs,npm,opencv,php,powershell,py,pytorch,r,raspberrypi,redhat,replit,ts,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress" />
   </a>
 </p>
