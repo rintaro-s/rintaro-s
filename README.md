@@ -30,4 +30,4 @@
     <img src="https://skillicons.dev/icons?i=blender,cloudflare,debian,discord,github,kali,linux,mint,raspberrypi,redhat,ubuntu,wordpress" />
   </a>
 </p>
-.....思ったよりあるな
+.....すごそうに見えるな
