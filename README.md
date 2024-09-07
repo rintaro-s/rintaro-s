@@ -12,10 +12,10 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart" />
   </a>
 </p>
-<h3>ライブラリ・ビルダー系</h3>
+<h3>ライブラリ・ビルダー(?)系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,arduino,cmake,docker,dotnet,git,gradle,jquery,mysql,nodejs,npm,opencv" />
+    <img src="https://skillicons.dev/icons?i=flutter,arduino,cmake,docker,dotnet,git,gradle,jquery,mysql,nodejs,npm,opencv,nextjs" />
   </a>
 </p>
 <h3>エディタ・環境系</h3>
