@@ -9,7 +9,7 @@
 <h3>言語系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart,processing" />
   </a>
 </p>
 <h3>ライブラリ・ビルダー(?)系</h3>
@@ -21,7 +21,7 @@
 <h3>エディタ・環境系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,idea,discord,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,idea,clion,webstorm,discord,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode" />
   </a>
 </p>
 <h3>その他</h3>
