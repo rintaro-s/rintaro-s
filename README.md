@@ -1,3 +1,4 @@
+![Banner Image](https://lorinta.xsrv.jp/wp-content/uploads/2024/06/dafa125d-a5cb-4212-bd8d-3c8d90eb8772.jpg)
 ## Hi there 👋
 
 高専１年。プログラミングが苦手&初心者な人です。何かソフトを使うためのプログラムが多め。<br>好きな言語見つけるために質より量勉強中。<br><a href="https://codic.jp/">codic</a>中毒者<br><br>ランキングは、なんか表示されてない言語がある。(使ったことあるやつは下記参照)　　　　　　　　　　　　　<br>
