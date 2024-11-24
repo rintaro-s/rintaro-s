@@ -13,22 +13,22 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart,processing" />
   </a>
 </p>
-<h3>ライブラリ・ビルダー(?)系</h3>
+<h3>ライブラリー系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,arduino,cmake,docker,dotnet,git,gradle,jquery,mysql,nodejs,npm,opencv,nextjs" />
+    <img src="https://skillicons.dev/icons?i=flutter,discord,arduino,cmake,docker,dotnet,gradle,jquery,mysql,nodejs,npm,opencv,nextjs" />
   </a>
 </p>
 <h3>エディタ・環境系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,idea,clion,webstorm,discord,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,git,idea,clion,webstorm,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode" />
   </a>
 </p>
 <h3>その他</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,cloudflare,debian,discord,github,kali,linux,mint,raspberrypi,redhat,ubuntu,wordpress" />
+    <img src="https://skillicons.dev/icons?i=nginx,blender,cloudflare,arch,debian,discord,github,kali,linux,mint,raspberrypi,redhat,ubuntu,wordpress" />
   </a>
 </p>
 .....すごそうに見えるな
