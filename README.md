@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-高専１年(高校1年)です。<br>好きな言語見つけるために質より量勉強中。<br>...だったけど良くない勉強法だと気づき始めた。（言語がごっちゃになったり、プログラミングは何かをするために勉強するからいろんな言語を勉強しても意味がない）    <br><br><a href="https://codic.jp/">codic</a>使いがち<br><br>　　　　　　　　　　　　　<br>
+高専１年(高校1年)です。<br>学生のうちは広く！広く！とにかく広く！勉強するつもり。    <brAIとネット系が好き><br><a href="https://codic.jp/">codic</a>使いがち<br><br>　　　　　　　　　　　　　<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-s&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
