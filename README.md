@@ -22,7 +22,7 @@
 <h3>エディタ・環境系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,git,idea,clion,webstorm,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,git,idea,clion,webstorm,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode,anaconda" />
   </a>
 </p>
 <h3>その他</h3>
