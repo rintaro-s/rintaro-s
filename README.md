@@ -16,7 +16,7 @@
 <h3>なんか言語＋α系（名称を知らない）</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,discord,arduino,cmake,docker,dotnet,gradle,jquery,mysql,nodejs,npm,opencv,nextjs,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=express,flutter,discord,arduino,cmake,docker,dotnet,gradle,jquery,mysql,nodejs,npm,opencv,nextjs,vscode&theme=light" />
   </a>
 </p>
 <h3>エディタ・環境系</h3>
