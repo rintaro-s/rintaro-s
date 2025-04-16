@@ -28,9 +28,6 @@
   </a>
 </p>
 
-
-アクセスカウンター：
-https://github.com/journey-ad/Moe-Counter?tab=MIT-1-ov-file#
 <h3>その他</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,3 +35,7 @@ https://github.com/journey-ad/Moe-Counter?tab=MIT-1-ov-file#
   </a>
 </p>
 .....すごそうに見えるな
+
+
+アクセスカウンター：
+https://github.com/journey-ad/Moe-Counter?tab=MIT-1-ov-file#
