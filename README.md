@@ -27,6 +27,10 @@
     <img src="https://skillicons.dev/icons?i=arduino,git,idea,clion,webstorm,mysql,npm,powershell,raspberrypi,replit,unity,vim,visualstudio,vscode,anaconda&theme=light" />
   </a>
 </p>
+
+
+アクセスカウンター：
+https://github.com/journey-ad/Moe-Counter?tab=MIT-1-ov-file#
 <h3>その他</h3>
 <p align="center">
   <a href="https://skillicons.dev">
