@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-あくせす　かうんたー<br>
+あくせす　かうんたー（4/16〜）<br>
 <img src="https://count.getloli.com/@rintaro-s?name=rintaro-s&theme=gelbooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 
 高専2年(高校2年)です。  <br>AIとネット系が好き<br>適当に勉強しています<br><a href="https://codic.jp/">codic</a>使いがち<br><br>　　　　　　　　　　　　　<br>
