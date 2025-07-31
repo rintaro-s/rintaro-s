@@ -12,13 +12,13 @@
 <h3>言語系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,crystal,py,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart,processing,md&theme=light" />
+    <img src="https://skillicons.dev/icons?i=lua,crystal,py,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart,processing,md,ruby,go&theme=light" />
   </a>
 </p>
-<h3>なんか言語＋α系（名称を知らない）</h3>
+<h3>なんか言語＋α系（フレームワーク党）</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,express,flutter,discord,arduino,cmake,docker,dotnet,gradle,jquery,mysql,nodejs,npm,opencv,nextjs,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,express,flutter,react,discord,arduino,cmake,docker,dotnet,gradle,jquery,mysql,nodejs,npm,opencv,nextjs,vscode&theme=light" />
   </a>
 </p>
 <h3>エディタ・環境系</h3>
