@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-s&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=rintaro-s)
-<h2>（モチベ上げのための）触ったことあるやつ↓</h2>
+<h2>（モチベ上げのための）触ったことあるやつ。使えるわけではない↓</h2>
 <h3>言語系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
