@@ -10,6 +10,7 @@
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=rintaro-s)
 <h2>（モチベ上げのための）触ったことあるやつ。使えるわけではない↓</h2>
+[こっち](https://りん.com)のほうが更新が早くてポートフォリオ的にはわかりやすい
 <h3>言語系</h3>
 <p align="center">
   <a href="https://skillicons.dev">
