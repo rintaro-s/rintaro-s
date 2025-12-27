@@ -11,6 +11,8 @@
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=rintaro-s)
 
+### よく使うもの
+※更新が1ヶ月以上前ならあんまりあてになりません
 <img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/a569a57b-49af-4949-838c-d9c7285eb62c" />
 <img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/7db6b0a0-e130-4c31-8560-e3f0c7863c0c" />
 
