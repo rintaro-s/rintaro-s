@@ -13,36 +13,3 @@
 <img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/a569a57b-49af-4949-838c-d9c7285eb62c" />
 <img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/7db6b0a0-e130-4c31-8560-e3f0c7863c0c" />
 
-<h2>（モチベ上げのための）触ったことあるやつ。使えるわけではない↓</h2>
-<h3>りん.com</h3>
-<a href="https://りん.com">こっちのほうが更新が早くてポートフォリオ的にはわかりやすい</a>
-<h3>言語系</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,crystal,py,r,ts,vue,js,html,css,c,cs,cpp,java,kotlin,mysql,php,powershell,cmake,dart,processing,md,ruby,go&theme=light" />
-  </a>
-</p>
-<h3>なんか言語＋α系（フレームワーク党）</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,express,flutter,react,discord,arduino,cmake,docker,dotnet,gradle,jquery,mysql,nodejs,npm,opencv,nextjs,rails&theme=light" />
-  </a>
-</p>
-<h3>エディタ・環境系</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,git,idea,clion,webstorm,mysql,npm,powershell,raspberrypi,replit,unity,visualstudio,vscode,anaconda&theme=light" />
-  </a>
-</p>
-
-<h3>その他</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,blender,cloudflare,arch,debian,discord,github,kali,linux,mint,raspberrypi,redhat,ubuntu,wordpress&theme=light" />
-  </a>
-</p>
-.....すごそうに見えるな
-
-
-アクセスカウンター：
-https://github.com/journey-ad/Moe-Counter?tab=MIT-1-ov-file#
