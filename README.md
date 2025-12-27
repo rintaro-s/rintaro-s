@@ -9,6 +9,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-s&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=rintaro-s)
+
+<img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/a569a57b-49af-4949-838c-d9c7285eb62c" />
+<img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/7db6b0a0-e130-4c31-8560-e3f0c7863c0c" />
+
 <h2>（モチベ上げのための）触ったことあるやつ。使えるわけではない↓</h2>
 <h3>りん.com</h3>
 <a href="https://りん.com">こっちのほうが更新が早くてポートフォリオ的にはわかりやすい</a>
