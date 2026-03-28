@@ -6,15 +6,16 @@
 基本的に、個人のgit用途で使用しています。
 年末掃除で30個くらいリポジトリ消しました
 
-高専2年(高校2年)です。将来、私のと妹とで火星に住みたい  <br>AIが好き。妹口調特化LLM作ったり、デスクトップ妹作ったり、マイニングソフト作ったり、LinuxのDE作ったり、学校のアプリのMOD作ったり、3Dアニメ作ったり、VR18+ゲー作ったり、学習アプリ作ったり、ゲームのMOD作ったり、検索エンジン作ったりなんか色々してます。<br>興味が出たものを適当に勉強しています<br>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-s&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rintaro-s&no-bg=true&no-frame=true&langs_count=30&hide=html,css&layout=compact"/>
-![trophy](https://github-profile-trophy.vercel.app/?username=rintaro-s)
+高専2年(高校2年)です。将来、私のと妹とで火星に住みたい  <br>
 
-### よく使うもの
-※更新が1ヶ月以上前ならあんまりあてになりません。
-更新：'25/12
-<img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/a569a57b-49af-4949-838c-d9c7285eb62c" />
-<img width="1140" height="461" alt="image" src="https://github.com/user-attachments/assets/7db6b0a0-e130-4c31-8560-e3f0c7863c0c" />
+- Q.なぜ「妹」が多い？
 
+A.冷徹なテクノロジーを、最も親しみやすい感情のインターフェースで包み込むことで、技術と人間の距離を最適化しようとする直感的なUXにするのが主な目的です。また、開発や学習は孤独でストレスのかかる作業です。「妹が応援してくれる」「妹がOSの中にいる」という設定は、エラーやバグに直面した際のユーザーの心理的障壁を下げ、レジリエンスを高める効果が期待できます。
+逆にポジティブな感情だけでなく、妹がいることで、兄や姉との間に競争が生まれることがあります。この競争は、学業やスポーツ、親の関心を引くためのものであり、時にはストレスや嫉妬を引き起こすこともあります。これらの要素は、家族の絆を深める一方で、時にはストレスや競争を引き起こすこともありますが、感情的なサポート、役割の形成、社会的スキルの発達など、さまざまな心理的影響を与えます。
+私のプロダクトも、単に甘いだけでなく、ユーザーを刺激し、共に成長できるような『生きた存在』であることを目指しています
+また、私の趣味でもあります
+
+- Q.なぜ専門分野がないのですか？
+
+A.私は、エンジニアではありません。ただの「パソコン好き」です。「自分が作りたいと思った好きなものを、好きなものでしっかりと作る」。それだけでやってきました。
+ですが、26年からはもう3年になるのでそろそろ実践ができるエンジニアになりたいですね。
